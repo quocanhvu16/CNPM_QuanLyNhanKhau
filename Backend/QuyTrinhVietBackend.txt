@@ -1,0 +1,2 @@
+Vũ Quốc Anh
+- Tôi sẽ là người viết server , anh em chú ý tải cho tôi Visual Studio 2022 bản Enterprise để pull code về và chạy server trên local nha.
